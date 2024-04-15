@@ -13,6 +13,20 @@ nav{
     justify-content: space-between;
     padding: 0rem calc((100vw - 1300px) / 2)
 }
+.nav-item{list-style: none;
+    background: cadetblue;
+    justify-content: flex-start;
+    width: 100%;
+    text-decoration: none;
+
+}
+
+ul{display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;}
 
 .logo{ color: black;
     font-size: 1.5rem;
@@ -20,6 +34,19 @@ nav{
     font-style: italic;
     padding: 0 2rem;
 
+}
+.logo{
+    padding: 1rem 3rem;
+    font-size: 2rem;
+    border: none;
+    color: wheat;
+    background: cadetblue;
+    cursor: pointer;
+
+}
+.logo:hover{
+    background:cadetblue;
+    color: indigo;
 }
 nav a{
     text-decoration:none;
@@ -60,7 +87,7 @@ nav a:hover{
     font-size: 1.5rem;
     line-height: 1.5;
 }
-button{
+.DOWNLOAD-BUTTON{
     padding: 1rem 3rem;
     font-size: 1rem;
     border: none;
@@ -70,7 +97,7 @@ button{
 
 }
 
-button:hover{
+.DOWNLOAD-BUTTON:hover{
     background:black;
     color: indigo;
 }
@@ -86,16 +113,8 @@ button:hover{
     height:100%;
 }
 
-.floating-text {
+.p {
     position: relative;
     animation: float 3s ease-in-out infinite;
 }
 
-@keyframes float {
-    0%, 100% {
-        transform: translateY(0);
-    }
-    50% {
-        transform: translateY(-20px);
-    }
-}
