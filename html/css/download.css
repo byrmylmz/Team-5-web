@@ -2,14 +2,13 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida sans",arial,sans-serif;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida sans", arial, sans-serif;
 
 }
 
 
-
-
-nav{ position: fixed;
+nav {
+    position: fixed;
     top: 0;
     bottom: 0;
     width: 100%;
@@ -17,10 +16,12 @@ nav{ position: fixed;
     background: cadetblue;
     display: flex;
     justify-content: space-between;
-    padding: 0rem calc((100vw - 1300px) / 2);
+    padding: 0 calc((100vw - 1300px) / 2);
 
 }
-.nav-item{list-style: none;
+
+.nav-item {
+    list-style: none;
     background: cadetblue;
     justify-content: flex-start;
     width: 100%;
@@ -29,23 +30,25 @@ nav{ position: fixed;
 }
 
 
-
-
-ul{display: flex;
+ul {
+    display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     align-content: center;
     justify-content: center;
-    align-items: center;}
+    align-items: center;
+}
 
-.logo{ color: black;
+.logo {
+    color: black;
     font-size: 1.5rem;
-    font-weight:bold;
+    font-weight: bold;
     font-style: italic;
     padding: 0 2rem;
 
 }
-.logo{
+
+.logo {
     padding: 1rem 3rem;
     font-size: 2rem;
     border: none;
@@ -54,17 +57,20 @@ ul{display: flex;
     cursor: pointer;
 
 }
-.logo:hover{
-    background:cadetblue;
+
+.logo:hover {
+    background: cadetblue;
     color: indigo;
 }
-nav a{
-    text-decoration:none;
+
+nav a {
+    text-decoration: none;
     color: black;
     padding: 0 1.5rem;
 
 }
-nav a:hover{
+
+nav a:hover {
     color: white
 }
 
@@ -73,11 +79,11 @@ body {
     place-content: center;
     min-height: 115vh;
     background-attachment: fixed;
-    background-image:url("images/_1bcbddd4-5b8d-4b16-bb78-6ef067822e3e.jpg");
+    background-image: url("../images/download-bg.png");
 
 }
 
-#downloadnow{
+#downloadnow {
     position: fixed;
     bottom: 3rem;
     left: 50%;
