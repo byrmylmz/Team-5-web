@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54579b67-1318-402d-b8e8-30a7ab52039f" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/css/rules.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/rules.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/download.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/download.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/download.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/download.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/images/download-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/download-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/images/icon-about.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon-about.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/images/il_1140xN.3933713609_ffpw.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/il_1140xN.3933713609_ffpw.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/images/il_794xN.4156672383_lcog.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/il_794xN.4156672383_lcog.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/images/index-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/index-img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/download.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/download.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/rules.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/rules.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
