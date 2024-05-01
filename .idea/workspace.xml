@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54579b67-1318-402d-b8e8-30a7ab52039f" name="Changes" comment="Hover for nav, roles added" />
+    <list default="true" id="54579b67-1318-402d-b8e8-30a7ab52039f" name="Changes" comment="Hover for nav, roles added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/download.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/download.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/download-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/index_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-about.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/il_1140xN.3933713609_ffpw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/il_794xN.4156672383_lcog.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714583155104</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hover for nav, roles added">
+      <option name="closed" value="true" />
+      <created>1714583258203</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714583258203</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
