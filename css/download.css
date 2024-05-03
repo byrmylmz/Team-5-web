@@ -26,6 +26,7 @@ nav {
     display: flex;
     justify-content: space-between;
     padding: 0 calc((100vw - 1300px) / 2);
+    z-index: 100;
 }
 
 .nav-item a {
@@ -187,3 +188,20 @@ img:nth-of-type(odd) {
     translate: 25% 0;
 }
 
+button:hover{
+    cursor: pointer;
+}
+
+button{
+    margin-bottom: 60px;
+}
+
+.transparent-footer {
+    background-color: rgba(0, 0, 0, 0.5); /* Black background with 50% opacity */
+    color: white; /* White text color */
+    text-align: center; /* Center the text */
+    padding: 20px 0; /* Add some padding */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}

@@ -5,29 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54579b67-1318-402d-b8e8-30a7ab52039f" name="Changes" comment="Hover for nav, roles added">
-      <change afterPath="$PROJECT_DIR$/css/leaderboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/leaderboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/crown-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/draw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/draw2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/img4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/img5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/img6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/intro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/moves.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/moves2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/setup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/strat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/strat2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/download.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/download.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/leaderboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/leaderboard.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/rules.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/rules.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/download.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/download.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/leaderboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/leaderboard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/rules.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/rules.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +32,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabDefaultAccount">
+    <option name="defaultAccountId" value="80c211bf-e114-4ccf-9c39-7ce4da855915" />
   </component>
   <component name="GitLabMergeRequestFiltersHistory">{
   &quot;lastFilter&quot;: {
@@ -97,11 +87,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\osuu\IdeaProjects\Team-5-web\img" />
-      <recent name="C:\Users\osuu\IdeaProjects\Team-5-web\img\rules" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/html/img/ppl" />
       <recent name="$PROJECT_DIR$/html/img" />
+      <recent name="$PROJECT_DIR$/html" />
+      <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -134,8 +124,6 @@
       <workItem from="1714382263501" duration="4355000" />
       <workItem from="1714390941219" duration="2151000" />
       <workItem from="1714413995132" duration="1613000" />
-      <workItem from="1714590743631" duration="305000" />
-      <workItem from="1714659789458" duration="9270000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />

@@ -13,6 +13,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    overflow: hidden;
 }
 nav {
     position: fixed;
@@ -178,3 +179,13 @@ nav a:hover {
     object-position: center;
 }
 
+.transparent-footer {
+    background-color: rgba(0, 0, 0, 0.5); /* Black background with 50% opacity */
+    color: white; /* White text color */
+    text-align: center; /* Center the text */
+    padding: 20px 0; /* Add some padding */
+    position: fixed; /* Fix the footer at the bottom */
+    left: 0;
+    bottom: 0;
+    width: 100%; /* Full width */
+}

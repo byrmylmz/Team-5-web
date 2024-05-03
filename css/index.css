@@ -3,9 +3,11 @@
     margin: 0;
     padding: 0;
     font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida sans",arial,sans-serif;
-
 }
 
+body{
+    overflow: hidden;
+}
 .main-container{
     display: grid;
     place-content: center;
@@ -114,7 +116,7 @@ nav a:hover{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-start;
+    /*align-items: flex-start;*/
     color: black;
     padding: 0rem 2rem;
 }
@@ -129,17 +131,16 @@ nav a:hover{
     font-size: 1.5rem;
     line-height: 1.5;
 }
-.DOWNLOAD-BUTTON{
+.download_button{
     padding: 1rem 3rem;
     font-size: 1rem;
     border: none;
     color: wheat;
     background: black;
     cursor: pointer;
-
 }
 
-.DOWNLOAD-BUTTON:hover{
+.download_button:hover{
     background:black;
     color: indigo;
 }
@@ -160,3 +161,17 @@ nav a:hover{
     animation: float 3s ease-in-out infinite;
 }
 
+img{
+    border-radius: 5%;
+}
+
+.transparent-footer {
+    background-color: rgba(0, 0, 0, 0.5); /* Black background with 50% opacity */
+    color: white; /* White text color */
+    text-align: center; /* Center the text */
+    padding: 20px 0; /* Add some padding */
+    position: fixed; /* Fix the footer at the bottom */
+    left: 0;
+    bottom: 0;
+    width: 100%; /* Full width */
+}
