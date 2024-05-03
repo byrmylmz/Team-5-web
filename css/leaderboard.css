@@ -103,7 +103,7 @@ body {
 body {
     font: 16px/1.2 "Roboto", sans-serif;
     color: #333;
-    background-image: url("../img/leaderboard_bg.jpg");
+    background-image: url("../img/backgrounds/leaderboard_bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }

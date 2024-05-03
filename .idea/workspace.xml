@@ -5,30 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54579b67-1318-402d-b8e8-30a7ab52039f" name="Changes" comment="Hover for nav, roles added">
-      <change afterPath="$PROJECT_DIR$/css/leaderboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/leaderboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/crown-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/draw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/draw2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/img4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/img5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/img6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/intro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/moves.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/moves2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/setup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/strat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rules/strat2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/rules.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/rules.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/GameStatistic.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/statistics.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/download.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/download.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/leaderboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/leaderboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/GameStatistic.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/statistics.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/download.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/download.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/leaderboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/leaderboard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/rules.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/rules.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/backgrounds/contact_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/download_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/backgrounds/download_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/index_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/backgrounds/index_bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/leaderboard_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/backgrounds/leaderboard_bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ppl/artiom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team_members/artiom.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ppl/bayram.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/team_members/bayram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ppl/hakan.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/team_members/hakan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ppl/maimuna.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/team_members/maimuna.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ppl/osu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team_members/osu.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,6 +179,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Hover for nav, roles added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hover for nav, roles added" />
+    <MESSAGE value="bg changed and nav fixed for index.html" />
+    <MESSAGE value="footer added, bg, disabling scrolls and small improvements and fixes." />
+    <option name="LAST_COMMIT_MESSAGE" value="footer added, bg, disabling scrolls and small improvements and fixes." />
   </component>
 </project>
