@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54579b67-1318-402d-b8e8-30a7ab52039f" name="Changes" comment="Hover for nav, roles added">
-      <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/download.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/download.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/leaderboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/leaderboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/rules.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/rules.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/statistics.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/statistics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,11 +86,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bayram\04-KdG\Teams\Team05-Surakarta\Team-5-web" />
       <recent name="C:\Users\osuu\IdeaProjects\Team-5-web\img" />
       <recent name="C:\Users\osuu\IdeaProjects\Team-5-web\img\rules" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/html/img/ppl" />
-      <recent name="$PROJECT_DIR$/html/img" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -130,7 +125,7 @@
       <workItem from="1714413995132" duration="1613000" />
       <workItem from="1714590743631" duration="305000" />
       <workItem from="1714659789458" duration="9270000" />
-      <workItem from="1714816638865" duration="611000" />
+      <workItem from="1714816638865" duration="2411000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -156,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714583258203</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Hover for nav, roles added">
+      <option name="closed" value="true" />
+      <created>1714817273360</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714817273360</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,9 +178,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <MESSAGE value="Hover for nav, roles added" />
     <MESSAGE value="bg changed and nav fixed for index.html" />
     <MESSAGE value="footer added, bg, disabling scrolls and small improvements and fixes." />
-    <option name="LAST_COMMIT_MESSAGE" value="footer added, bg, disabling scrolls and small improvements and fixes." />
+    <MESSAGE value="Hover for nav, roles added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hover for nav, roles added" />
   </component>
 </project>
